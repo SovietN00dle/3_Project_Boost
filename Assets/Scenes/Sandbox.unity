@@ -959,18 +959,6 @@ PrefabInstance:
       propertyPath: m_Mass
       value: 0.6
       objectReference: {fileID: 0}
-    - target: {fileID: 1818245702, guid: b50165df3e0f64bd38ace19f08d56c9d, type: 3}
-      propertyPath: deathParticles
-      value: 
-      objectReference: {fileID: 198204746014789312, guid: ab79a37535b979f48b6de56e3a0a5cb0, type: 3}
-    - target: {fileID: 1818245702, guid: b50165df3e0f64bd38ace19f08d56c9d, type: 3}
-      propertyPath: mainEngineParticles
-      value: 
-      objectReference: {fileID: 198100719057022332, guid: a3553fd250eb92d4091bebde350c6739, type: 3}
-    - target: {fileID: 1818245702, guid: b50165df3e0f64bd38ace19f08d56c9d, type: 3}
-      propertyPath: successParticles
-      value: 
-      objectReference: {fileID: 198631066050499358, guid: 62198a3a5dbb64a4f9e1618929224faa, type: 3}
     - target: {fileID: 569667908250110895, guid: b50165df3e0f64bd38ace19f08d56c9d, type: 3}
       propertyPath: m_Center.x
       value: -0.0000019073486
@@ -997,11 +985,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1613623073178273746, guid: b50165df3e0f64bd38ace19f08d56c9d, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: 0.0033684974
       objectReference: {fileID: 0}
     - target: {fileID: 1613623073178273746, guid: b50165df3e0f64bd38ace19f08d56c9d, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.99999434
       objectReference: {fileID: 0}
     - target: {fileID: 1613623073178273746, guid: b50165df3e0f64bd38ace19f08d56c9d, type: 3}
       propertyPath: m_RootOrder
@@ -1017,7 +1005,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1613623073178273746, guid: b50165df3e0f64bd38ace19f08d56c9d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: 0.386
       objectReference: {fileID: 0}
     - target: {fileID: 4884676586628031884, guid: b50165df3e0f64bd38ace19f08d56c9d, type: 3}
       propertyPath: m_LocalPosition.x
